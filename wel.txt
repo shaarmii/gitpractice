@@ -1,2 +1,5 @@
 welcome to version control
 change from b1
+
+this wel txt file from b2 
+
